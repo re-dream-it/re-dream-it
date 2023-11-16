@@ -1,4 +1,8 @@
 ### Hi there 👋
+## About me
+I am Python, PHP developer. 
+I am currently working on Telegram bots and some scripts
+
 
 <!--
 **re-dream-it/re-dream-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
