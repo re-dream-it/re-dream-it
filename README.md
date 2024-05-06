@@ -1,14 +1,14 @@
 # Hi there 👋
 ## About me
 My name is Slava.
-I am 18 y.o. dev
+I am 18 y.o. dev.
 
 ### My coding languages:
 * Python
 * PHP
 * SQL
   
-I am currently working on Telegram bots and some sites
+I am currently working on Telegram bots and some WordPress/Bitrix sites.
 
 
 <!--
