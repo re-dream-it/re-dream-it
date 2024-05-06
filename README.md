@@ -1,7 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 ## About me
-I am Python, PHP developer. 
-I am currently working on Telegram bots and some scripts
+My name is Slava.
+I am 18 y.o. dev
+
+### My coding languages:
+* Python
+* PHP
+* SQL
+  
+I am currently working on Telegram bots and some sites
 
 
 <!--
