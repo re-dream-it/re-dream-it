@@ -1,7 +1,4 @@
 # Hi there 👋
-## About me
-My name is Slava.
-I am 18 y.o. dev.
 
 ### My coding languages:
 * Python
