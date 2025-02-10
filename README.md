@@ -1,9 +1,7 @@
 # Hi there 👋
 
 ### My coding languages:
-* Python
-* PHP
-* SQL
+PHP, Python, MySQL/SQLite, HTML, CSS, JS, JQuery
   
 I am currently working on Telegram bots and some WordPress/Bitrix sites.
 
