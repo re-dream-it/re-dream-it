@@ -3,7 +3,7 @@
 ### My coding languages:
 PHP, Python, MySQL/SQLite, HTML, CSS, JS, JQuery
   
-I am currently working on Telegram bots and some WordPress/Bitrix sites.
+I am currently working on Web-development and Telegram bots.
 
 
 <!--
