@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://redream_dev.t.me/](https://redream_dev.t.me/)
 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bash"/> **redream.dev@gmail.com**
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bash"/> **redream.dev@gmail.com**
 
 </p>
 
