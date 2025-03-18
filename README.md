@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://redream_dev.t.me/](https://redream_dev.t.me/)
 
-- [https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) **redream.dev@gmail.com**
+- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bash"/> **redream.dev@gmail.com**
 
 </p>
 
