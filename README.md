@@ -6,7 +6,9 @@
 <a href="https://t.me/re_dream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"></a>
 <a href="https://redream.space"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30"></a>
 </p>
-
+<p align="center"> 
+<a href="https://wakatime.com/@c61c23be-3d12-4273-ac79-0ea2df3df7dd"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
+</p>
 💻 I’m currently working on [**College replacement system**](https://kmpo.redream.space/public_reps.php)
 
 🌱 I’m currently learning **Laravel**, **Redis**
@@ -34,7 +36,6 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30">
 <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="30">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30">
 <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" height="30">
 
 </p>
