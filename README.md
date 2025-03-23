@@ -9,7 +9,8 @@
 <p align="center"> 
 <a href="https://wakatime.com/@c61c23be-3d12-4273-ac79-0ea2df3df7dd"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
 </p>
-💻 I’m currently working on [**College replacement system**](https://kmpo.redream.space/public_reps.php)
+
+💻 I’m currently working on [**College replacement system**](https://kmpo.redream.space/public_reps.php/)
 
 🌱 I’m currently learning **Laravel**, **Redis**
 
