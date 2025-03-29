@@ -2,12 +2,11 @@
 <h3 align="center">Web-developer from Russia. I am into music and coding.</h3>
 
 <p align="center"> 
-<a href="https://wakatime.com/@redream"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" alt="WakaTime" height="30"></a>
 <a href="https://t.me/re_dream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"></a>
 <a href="https://redream.space"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" height="30"></a>
 </p>
 <p align="center"> 
-<a href="https://wakatime.com/@c61c23be-3d12-4273-ac79-0ea2df3df7dd"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
+<a href="https://wakatime.com/@redream"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
 </p>
 
 💻 I’m currently working on [**College replacement system**](https://kmpo.redream.space/public_reps.php/)
