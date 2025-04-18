@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Slava</h1>
-<h3 align="center">Web-developer from Russia. I am into music and coding.</h3>
+<h3 align="center">Web-developer from Russia, really into music and coding.</h3>
 
 <p align="center"> 
 <a href="https://t.me/re_dream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"></a>
@@ -8,6 +8,8 @@
 <p align="center"> 
 <a href="https://wakatime.com/@redream"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
 </p>
+
+💼 My place of work is **College of The Presidential Academy (RANEPA)**
 
 💻 I’m currently working on [**College replacement system**](https://kmpo.redream.space/public_reps.php/)
 
