@@ -15,7 +15,7 @@
 
 👯 I’m looking to collaborate on **any projects**
 
-👨‍💻 All of my projects are available at [**Telegram**](https://redream_dev.t.me/)
+👨‍💻 All of my projects are available at [**Telegram**](https://redream_dev.t.me/) and here
 
 📫 Email: **redream.dev@gmail.com**
 
