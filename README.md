@@ -15,9 +15,13 @@
 
 👯 I’m looking to collaborate on **any projects**
 
-👨‍💻 All of my projects are available at [**Telegram**](https://redream_dev.t.me/) and here
-
 📫 Email: **redream.dev@gmail.com**
+
+### 👨‍💻 Projects:
+- [**College replacement system**](https://rep.serviceskmpo.ru/) 
+- [**Medical portal "Actual Phlebology"**](https://actual-phlebology.ru/)  
+- [**Website for the TYREN brake systems store**](https://tyren.parts/) 
+- [Check telegram for more!](https://t.me/redream_cases)  
 
 
 
@@ -25,10 +29,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30">
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JS" height="30">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30">
 </p>
 
