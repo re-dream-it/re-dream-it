@@ -51,3 +51,5 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="30">
 </p>
+
+<div align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=B3DCFD&width=310&lines=See+you%2C+space+cowboy.+.+.;" alt="Typing SVG" /></div>
