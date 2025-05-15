@@ -11,7 +11,7 @@
 
 💼 My place of work is **College of The Presidential Academy (RANEPA)**
 
-🌱 I’m currently learning **Laravel**, **Redis**
+🌱 I’m currently learning **Go**, **Redis**
 
 👯 I’m looking to collaborate on **any projects**
 
