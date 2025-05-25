@@ -9,8 +9,6 @@
 <a href="https://wakatime.com/@redream"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
 </p>
 
-💼 My place of work is **College of The Presidential Academy (RANEPA)**
-
 🌱 I’m currently learning **Go**, **Redis**
 
 👯 I’m looking to collaborate on **any projects**
