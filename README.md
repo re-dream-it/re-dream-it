@@ -10,7 +10,7 @@
 </p>
 
 🌱 I’m currently learning **Go**, **K8s**
-👯 I’m looking to collaborate on **any projects**
+👨‍💻 I’m looking to collaborate on **any projects**
 
 📫 Email: **redream.dev@gmail.com**
 
