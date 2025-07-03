@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Slava</h1>
-<h3 align="center">Web-developer from Russia, really into music and coding.</h3>
+<h3 align="center">DevOps-engineer and Backend-developer from Russia, really into music and coding.</h3>
 
 <p align="center"> 
 <a href="https://t.me/re_dream"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" height="30"></a>
@@ -9,8 +9,7 @@
 <a href="https://wakatime.com/@redream"><img src="https://wakatime.com/badge/user/c61c23be-3d12-4273-ac79-0ea2df3df7dd.svg" alt="Total time coded since Feb 24 2025" /></a>
 </p>
 
-🌱 I’m currently learning **Go**, **Redis**
-
+🌱 I’m currently learning **Go**, **K8s**
 👯 I’m looking to collaborate on **any projects**
 
 📫 Email: **redream.dev@gmail.com**
@@ -47,6 +46,8 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" height="30">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="30">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30">
+</p>
+<p align="left">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="30">
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="30">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30">
