@@ -12,19 +12,16 @@
 
 📫 Email: **redream.dev@gmail.com**
 
-<h3 align="left">Programming languages and frameworks:</h3>
+<h3 align="left">Programming & Scripting</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="30">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="30">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="30">
 </p>
 
-<h3 align="left">Databases:</h3>
+<h3 align="left">Databases & Storage</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30">
-  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="30">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30">
   <img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="Elastic" height="30">
   <img src="https://img.shields.io/badge/MinIO-FF0000?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" height="30">
@@ -41,19 +38,24 @@
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" height="30">
 </p>
 
+<h3 align="left">Containers, CI/CD & Orchestration</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="30">
-  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="30">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="30">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="30">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" height="30">
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" height="30">
+  <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="30">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" height="30">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="30">
 </p>
 
-<h3 align="left">Monitoring & Logs</h3>
+<h3 align="left">Infrastructure & Administration</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" height="30">
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="30">
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="30">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" height="30">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="30">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="30">
+  <img src="https://img.shields.io/badge/Nexus-FFFFFF?style=for-the-badge&logo=sonatype&logoColor=black" alt="Nexus" height="30">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" height="30">
 </p>
 
 <div align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=B3DCFD&width=310&lines=See+you%2C+space+cowboy.+.+.;" alt="Typing SVG" /></div>
