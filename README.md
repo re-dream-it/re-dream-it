@@ -16,6 +16,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" height="30">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="30">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" height="30">
 </p>
 
 <h3 align="left">Databases & Storage</h3>
@@ -49,4 +50,19 @@
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="30">
 </p>
 
+<h3 align="left">Monitoring & Observability</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" height="30">
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" height="30">
+  <img src="https://img.shields.io/badge/Zabbix-D60000?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" height="30">
+  <img src="https://img.shields.io/badge/Loki-2C2D72?style=for-the-badge&logo=grafana&logoColor=white" alt="Loki" height="30">
+  <img src="https://img.shields.io/badge/VictoriaMetrics-3FCF8E?style=for-the-badge&logo=victoriametrics&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/VictoriaLogs-3FCF8E?style=for-the-badge&logo=victoriametrics&logoColor=white" height="25">
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=elastic&logoColor=white" height="25"> 
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" height="25">
+</p>
+  
 <div align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=B3DCFD&width=310&lines=See+you%2C+space+cowboy.+.+.;" alt="Typing SVG" /></div>
