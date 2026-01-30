@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/MinIO-FF0000?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO" height="30">
 </p>
 
-<h3 align="left">Administration tools</h3>
+<h3 align="left">Infrastructure & Administration</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30">
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" height="30">
@@ -36,6 +36,8 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30">
   <img src="https://img.shields.io/badge/Nexus-FFFFFF?style=for-the-badge&logo=sonatype&logoColor=black" alt="Nexus" height="30">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" height="30">
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="30">
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" height="30">
 </p>
 
 <h3 align="left">Containers, CI/CD & Orchestration</h3>
@@ -46,16 +48,6 @@
   <img src="https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" height="30">
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" height="30">
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="30">
-</p>
-
-<h3 align="left">Infrastructure & Administration</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" height="30">
-  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" height="30">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30">
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" height="30">
-  <img src="https://img.shields.io/badge/Nexus-FFFFFF?style=for-the-badge&logo=sonatype&logoColor=black" alt="Nexus" height="30">
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" height="30">
 </p>
 
 <div align="right"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=B3DCFD&width=310&lines=See+you%2C+space+cowboy.+.+.;" alt="Typing SVG" /></div>
